@@ -27,7 +27,7 @@ A simple RESTful API built with **Node.js**, **Express.js**, and **MongoDB** to 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/student-management-api.git
+git clone (https://github.com/sriteja1101/student-api)
 cd student-management-api
 ```
 ### POSTMAN OUTPUTS
